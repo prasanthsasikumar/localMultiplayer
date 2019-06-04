@@ -4,8 +4,8 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/prasanthsasikumar/localMultiplayer)
 
-This project explores how Virtual Reality(CR) can be used to help people understand each other better in face-to-face and remote collaboration, with the ultimate goal of designing an empathic computing interface.  Simultaneous and classification of data from multiple physiological sensors will be carried out to study inter-brain synchrony cognitive load and emotional responses of two or more collaborators in real and virtual environments.
-This section explains the implementation of VR set up used. We used two mobile phones( one plus 3 and galaxy s8) for the experiment. The VR app made use of cardboard API to work in VR mode. Both the devices were synced over the internet and we used a computer to obtain a third person view. 
+This project explores how Virtual Reality(VR) can be used to help people understand each other better in face-to-face and remote collaboration, with the ultimate goal of designing an empathic computing interface.  Simultaneous and classification of data from multiple physiological sensors will be carried out to study inter-brain synchrony cognitive load and emotional responses of two or more collaborators in real and virtual environments.
+This section explains the implementation of VR set up used. We used two mobile phones( one plus 3 and galaxy S8) for the experiment. The VR app made use of cardboard API to work in VR mode. Both the devices were synced over the internet and we used a computer to obtain a third person view. 
 
 
 # REQUIREMENTS
