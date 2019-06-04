@@ -1,6 +1,6 @@
 # HyperScanning [VR App]
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](http://empathiccomputing.org/)
+[![N|Solid](https://github.com/prasanthsasikumar/localMultiplayer/blob/master/powerdByLogo.png)](http://empathiccomputing.org/)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/prasanthsasikumar/localMultiplayer)
 
