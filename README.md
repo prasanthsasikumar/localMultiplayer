@@ -45,6 +45,12 @@ This section explains the implementation of VR set up used. We used two mobile p
 
  - Add test cases
  - A lot more work
+ 
+ ### Videos
+ - https://youtu.be/7bAfsdupYd0
+ - https://youtu.be/1pMK45_gbdk
+ - https://youtu.be/rUQh5V8tadY
+ - https://youtu.be/7kvshtR4Aho
 
 License
 ----
