@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B242EFA1-C29B-1E37-1C4C-46B05DEC6673}</ProjectGuid>
+    <ProjectGuid>{75C4578C-B64D-7B17-1C32-A6DD2A6FB619}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -80,46 +80,46 @@
     <Compile Include="Assets\Photon\PhotonUnityNetworking\Demos\DemoSlotRacer\Scripts\BezierCurve\Editor\BezierSplineInspector.cs" />
     <Compile Include="Assets\Photon\PhotonUnityNetworking\Demos\DemoSlotRacer\Scripts\BezierCurve\Editor\LineInspector.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Editor">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-weaver.Editor">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -322,47 +322,50 @@
     <Reference Include="UnityEditor.Android.Extensions">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.Lumin.Extensions">
+      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.1f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll</HintPath>
+    </Reference>
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Mirror.Weaver">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Assets/Mirror/Plugins/Mirror.Weaver.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Assets/Mirror/Plugins/Mirror.Weaver.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Cecil">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Assets/Mirror/Plugins/Unity.Cecil/Unity.Cecil.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Assets/Mirror/Plugins/Unity.Cecil/Unity.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Cecil.Mdb">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Assets/Mirror/Plugins/Unity.Cecil/Unity.Cecil.Mdb.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Assets/Mirror/Plugins/Unity.Cecil/Unity.Cecil.Mdb.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Cecil.Pdb">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Assets/Mirror/Plugins/Unity.Cecil/Unity.Cecil.Pdb.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Assets/Mirror/Plugins/Unity.Cecil/Unity.Cecil.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="Telepathy">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy.dll</HintPath>
     </Reference>
     <Reference Include="Photon3Unity3D">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Assets/Photon/PhotonLibs/Photon3Unity3D.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Assets/Photon/PhotonLibs/Photon3Unity3D.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Assets/Photon/PhotonUnityNetworking/Code/Editor/Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Assets/Photon/PhotonUnityNetworking/Code/Editor/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.1f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -721,51 +724,51 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{1DADC3B6-689C-AB36-D3E8-5BB4C1185AF4}</Project>
+      <Project>{7319878A-A200-5FB4-DDE7-FD336FFC50C6}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{AC30D8F4-F7BF-0F10-C905-1972BF6E6350}</Project>
+      <Project>{A4A3B6EF-B826-0330-CBE5-57C3A50C938F}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
-      <Project>{3F0ADB02-DC4E-0C6D-87A3-69C1D9F8B8FE}</Project>
+      <Project>{AD1D08FE-15B9-FB8C-F254-C3AB2C76AD30}</Project>
       <Name>Assembly-CSharp-Editor-firstpass</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj">
-      <Project>{C93BB266-282C-4785-2F9C-47AC41DF2BFA}</Project>
+      <Project>{972C7317-E9E5-910F-0785-42D351667F5F}</Project>
       <Name>PhotonUnityNetworking.Utilities.PhotonPlayer.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.csproj">
-      <Project>{73CB1D5D-C726-0EC7-AE0E-2B3E1C6D3B25}</Project>
+      <Project>{6D0B372F-427D-7082-C648-42BD66927C53}</Project>
       <Name>PhotonUnityNetworking.Utilities</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonWebSocket.csproj">
-      <Project>{698BB361-870D-035D-B9E9-567560138954}</Project>
+      <Project>{89FB4795-1350-A980-A1B2-6E92114892D1}</Project>
       <Name>PhotonWebSocket</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonRealtime.csproj">
-      <Project>{B6EE5299-8D5A-93BF-77C9-5EAFDB262DE3}</Project>
+      <Project>{DB5ECFD1-E70C-7400-C6FE-D57E43D1A56E}</Project>
       <Name>PhotonRealtime</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.csproj">
-      <Project>{2B168AFF-27E4-7488-E84F-7446957CAA73}</Project>
+      <Project>{E105F468-7937-A49C-FD03-051409ED0E40}</Project>
       <Name>PhotonUnityNetworking</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.csproj">
-      <Project>{0F9E4796-2CCF-8162-2674-EAB20D3CB59F}</Project>
+      <Project>{2BB98792-3366-0E93-EA99-96A0C0092FD2}</Project>
       <Name>Mirror</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonChat.csproj">
-      <Project>{68362AF5-F32C-27E6-5ED0-DC76FD595680}</Project>
+      <Project>{06863761-0064-1569-8E62-A6865261655C}</Project>
       <Name>PhotonChat</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.Culling.Editor.csproj">
-      <Project>{22CC453F-3C79-2580-7B8B-7BFA301DB70E}</Project>
+      <Project>{DD723753-34B0-8BB0-6762-43BFA020D639}</Project>
       <Name>PhotonUnityNetworking.Utilities.Culling.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Editor.csproj">
-      <Project>{A10558F3-365E-E743-EA54-D9E7FCA11B59}</Project>
+      <Project>{152A3221-674A-6B9D-3535-1A2F7499B6E1}</Project>
       <Name>PhotonUnityNetworking.Editor</Name>
     </ProjectReference>
   </ItemGroup>

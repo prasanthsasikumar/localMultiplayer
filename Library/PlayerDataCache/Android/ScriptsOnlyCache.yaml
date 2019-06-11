@@ -22,6 +22,8 @@ ScriptsOnlyBuild:
     - Photon.Pun.Demo.SlotRacer.Utils.SplineWalker
     - VolumetricLines.VolumetricLineBehavior
     PhotonUnityNetworking.Editor.dll:
+    - Photon.Pun.PhotonTransformViewEditor
+    - Photon.Pun.PhotonViewInspector
     - Photon.Pun.PunSceneSettings
     PhotonUnityNetworking.dll:
     - Photon.Pun.PhotonAnimatorView
@@ -29,15 +31,12 @@ ScriptsOnlyBuild:
     - Photon.Pun.PhotonTransformView
     - Photon.Pun.PhotonView
     - Photon.Pun.ServerSettings
-    UnityEditor.TestRunner.dll:
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.UI.Image
     - UnityEngine.UI.Shadow
     - UnityEngine.UI.Slider
     - UnityEngine.UI.Text
     com.unity.multiplayer-hlapi.Runtime.dll:
-    - UnityEngine.Networking.NetworkCallbacks
     - UnityEngine.Networking.NetworkIdentity
   sceneClasses:
     Assets/MarksOfficePhoton.unity:
@@ -76,6 +75,8 @@ ScriptsOnlyBuild:
     - Class: 91
       Script: {instanceID: 0}
     - Class: 95
+      Script: {instanceID: 0}
+    - Class: 102
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -1350,7 +1351,7 @@ ScriptsOnlyBuild:
     className: LookatTarget
   - hash:
       serializedVersion: 2
-      Hash: 92c58e248f7ab81a06e60f2036563568
+      Hash: 9493d6a95356f49cebf757ee9b682728
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: AttachAndRotateLeft
@@ -2587,4 +2588,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/MarksOfficePhoton.unity
-  playerPath: C:/Users/psas598/Desktop/HyperScanning/LocalMultiplayer/test.apk
+  playerPath: C:/Users/Prasanth Sasikumar/Desktop/localMultiplayer/toRun2.apk

@@ -1,29 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\psas598\\Desktop\\HyperScanning\\LocalMultiplayer\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\Prasanth Sasikumar\\Desktop\\localMultiplayer\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\psas598\\Desktop\\HyperScanning\\LocalMultiplayer\\Temp\\gradleOut\\src\\main\\res\\values-v21\\styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "0",
-                        "startOffsets": "53",
-                        "endLines": "3",
-                        "endColumns": "8",
-                        "endOffsets": "153"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "3",
-                        "endColumns": "8",
-                        "endOffsets": "154"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\psas598\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\95e0486542239c807a08e81db5333451\\res\\values-v21\\values.xml",
+                    "source": "C:\\Users\\Prasanth Sasikumar\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\56b762ce935e3585971509de4ef878c4\\res\\values-v21\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -39,6 +20,25 @@
                         "endLines": "5",
                         "endColumns": "8",
                         "endOffsets": "249"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Prasanth Sasikumar\\Desktop\\localMultiplayer\\Temp\\gradleOut\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "154"
                     }
                 }
             ]

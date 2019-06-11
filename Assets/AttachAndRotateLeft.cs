@@ -5,10 +5,11 @@ using Photon.Pun;
 
 public class AttachAndRotateLeft : MonoBehaviour
 {
-    public GameObject myCamera, leftArm, rightArm;
+
+    public GameObject myCamera, leftArm;
     GameObject noloControllerLeft;
+    public GameObject textMesh_arm, textMesh_controller;
     private bool isGameInitialised = false;
-    public bool attachArmToController = false;
     private bool isMainPlayer = false;
 
     // Update is called once per frame
@@ -16,6 +17,7 @@ public class AttachAndRotateLeft : MonoBehaviour
     {
         if (!GetComponent<PhotonView>().IsMine)
         {
+            Debug.Log(GetComponent<PhotonView>());
             return;
         }
         myCamera.SetActive(true);
@@ -25,7 +27,6 @@ public class AttachAndRotateLeft : MonoBehaviour
         if (PhotonNetwork.CountOfPlayers == 1)
         {
             isMainPlayer = true;
-            attachArmToController = true;
         }
         if (!isGameInitialised)
         {
@@ -33,11 +34,19 @@ public class AttachAndRotateLeft : MonoBehaviour
             GameObject noloManager = GameObject.Find("NoloManager");
             noloManager.GetComponent<NoloVR_Manager>().VRCamera = myCamera;
             noloControllerLeft = GameObject.Find("RightController");
-            noloControllerLeft.transform.SetPositionAndRotation(leftArm.transform.position, leftArm.transform.rotation);
+            //noloControllerLeft.transform.SetPositionAndRotation(leftArm.transform.position, leftArm.transform.rotation);
         }
-        if (attachArmToController)
-        {
-            leftArm.transform.localRotation = noloControllerLeft.transform.localRotation;
-        }
+        textMesh_arm.GetComponent<TextMesh>().text = noloControllerLeft.transform.localRotation.ToString();
+        //leftArm.transform.localRotation = noloControllerLeft.transform.localRotation;
+        
+        leftArm.transform.localRotation = ConvertRightHandedToLeftHandedQuaternion(noloControllerLeft.transform.localRotation);
+    }
+
+    private Quaternion ConvertRightHandedToLeftHandedQuaternion(Quaternion rightHandedQuaternion)
+    {
+        return new Quaternion(-rightHandedQuaternion.x,
+                                rightHandedQuaternion.z,
+                                rightHandedQuaternion.y,
+                                 rightHandedQuaternion.w);
     }
 }

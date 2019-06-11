@@ -35,12 +35,11 @@ public class AttachCameraAndRotate : MonoBehaviour
             GameObject noloManager = GameObject.Find("NoloManager");
             noloManager.GetComponent<NoloVR_Manager>().VRCamera = myCamera;
             noloControllerRight = GameObject.Find("RightController");
-            //noloControllerRight.transform.SetPositionAndRotation(rightArm.transform.position, rightArm.transform.rotation);
+            noloControllerRight.transform.SetPositionAndRotation(rightArm.transform.position, rightArm.transform.rotation);
         }
         if (attachArmToController)
         {
             rightArm.transform.localRotation = noloControllerRight.transform.localRotation;
-            //PhotonNetwork.PlayerList[1].
         }
     }
 }
